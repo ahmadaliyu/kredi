@@ -10,8 +10,8 @@ Expo CLI (install via npm install -g expo-cli)
 
 # Clone the repository
 
-git clone https://github.com/ahmadaliyu/shipment-tracker.git
-cd shipment-tracker
+git clone https://github.com/ahmadaliyu/kredi.git
+cd kredi
 
 ## install dependencies 
 
