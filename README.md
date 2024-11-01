@@ -1,8 +1,7 @@
 # Kredi app
 
 Overview
-This is a React Native project using Expo Go. This project demonstrates how to use and manage a basic shipment tracker app setup with Expo.
-
+This is a React Native project using Expo Go. This project demonstrates the kredi app for managing financial transactions
 # Getting Started
 Prerequisites
 Node.js (recommended version: 14.x or later)
