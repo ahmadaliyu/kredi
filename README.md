@@ -1,4 +1,4 @@
-# shipment-tracker
+# Kredi app
 
 Overview
 This is a React Native project using Expo Go. This project demonstrates how to use and manage a basic shipment tracker app setup with Expo.
